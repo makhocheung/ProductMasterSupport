@@ -24,6 +24,6 @@
 如果您有任何问题或意见，或者需要了解更多有关我们的隐私政策的信息，可以通过以下方式联系我们：
 
 - 邮箱：nathan_mak@icloud.com
-- 技术支持：https://github.com/makhocheung/ProductMasterSupport
+- 技术支持：https://makhocheung.github.io/ProductMasterSupport/
 
 本隐私政策适用于我们任何发布或维护的应用程序中，都涵盖了您使用任何上述应用程序时的活动。我们建议您定期浏览我们的隐私政策，以在您同意任何更改时保持更新并了解我们的个人信息处理实践。
